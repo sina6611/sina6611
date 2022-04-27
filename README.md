@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sina6611
-- 👀 I’m interested in C#, Data Analyze, Matlab
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in C#, Python, Data base,SQl, Matlab, C++
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: sn.barbaz@gmail.com
 
