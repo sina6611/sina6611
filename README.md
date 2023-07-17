@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sina6611
-- 👀 I’m interested in C#, Python, Data base,SQl, Matlab, C++
+- 👀 I’m interested in C,C++,C#, Python, Database,SQl, Matlab
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Embedded System
 - 📫 How to reach me: sn.barbaz@gmail.com
 
 <!---
